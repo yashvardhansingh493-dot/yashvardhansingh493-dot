@@ -201,11 +201,8 @@ A retail sales analytics project analyzing customer orders, demographics, sales 
 
 ---
 
-## 🔥 Contribution Activity
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh493-dot&theme=tokyo-night&hide_border=true" />
-</p>
 
 <!--
 Optional: GitHub contribution snake animation.
