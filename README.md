@@ -203,6 +203,13 @@ A retail sales analytics project analyzing customer orders, demographics, sales 
 
 ## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashvardhansingh493-dot/yashvardhansingh493-dot/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashvardhansingh493-dot/yashvardhansingh493-dot/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yashvardhansingh493-dot/yashvardhansingh493-dot/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!--
 Optional: GitHub contribution snake animation.
