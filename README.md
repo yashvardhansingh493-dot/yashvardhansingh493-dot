@@ -36,13 +36,6 @@
 
 ---
 
-## 🚧 Currently Working On
-
-**🏥 Healthcare Analytics Dashboard** — an interactive Python-based dashboard analyzing hospital admissions, patient demographics, billing, and treatment outcomes.
-
-> ⚠️ *This is a personal learning project built on a public healthcare dataset — not a claim of professional healthcare industry experience.*
-
----
 
 ## 🧰 Data Analyst Toolbox
 
