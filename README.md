@@ -140,7 +140,7 @@ An interactive healthcare analytics project analyzing admissions, medical condit
 | Top Hospital | LLC Smith |
 | Top Insurance Provider | Cigna |
 
-🔗 [Repository Link — Add URL]
+🔗 [Repository Link — https://github.com/yashvardhansingh493-dot/Healthcare-Analytics-Dashboard]
 
 ---
 
@@ -149,7 +149,7 @@ An interactive healthcare analytics project analyzing admissions, medical condit
 
 A Netflix content analytics dashboard built by cleaning and transforming data with Excel Power Query, analyzing KPIs using SQL, and visualizing insights through Power BI — styled with a Netflix-inspired dark visual theme, focused on content and business analysis.
 
-🔗 [Repository Link — Add URL]
+🔗 [Repository Link —https://github.com/yashvardhansingh493-dot/Netflix-Content-Analytics-Dashboard]
 
 ---
 
@@ -169,7 +169,7 @@ An Excel and Power BI sales analytics dashboard built on coffee shop sales data.
 - Highest Revenue Month
 - Total Profit
 
-🔗 [Repository Link — Add URL]
+🔗 [Repository Link — https://github.com/yashvardhansingh493-dot/Coffee-Shop-Sales-Dashboard]
 
 ---
 
@@ -178,7 +178,7 @@ An Excel and Power BI sales analytics dashboard built on coffee shop sales data.
 
 A retail sales analytics project analyzing customer orders, demographics, sales channels, product categories, and shipping data to uncover business insights.
 
-🔗 [Repository Link — Add URL]
+🔗 [Repository Link — https://github.com/yashvardhansingh493-dot/Vrinda-Store-Data-Analysis-Dashboard]
 
 ---
 
