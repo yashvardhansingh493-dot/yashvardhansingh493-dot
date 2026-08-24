@@ -183,10 +183,7 @@ A retail sales analytics project analyzing customer orders, demographics, sales 
 
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=yashvardhansingh493-dot&theme=tokyonight&hide_border=true"
-    alt="Yash Vardhan Singh GitHub Streak"
-  />
+  <img src="./stats.svg" alt="Yash Vardhan Singh GitHub Statistics" width="90%" />
 </p>
 ---
 
