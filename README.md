@@ -183,10 +183,11 @@ A retail sales analytics project analyzing customer orders, demographics, sales 
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhansingh493-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=yashvardhansingh493-dot&theme=tokyonight&hide_border=true"
+    alt="Yash Vardhan Singh GitHub Streak"
+  />
 </p>
-
-
 ---
 
 ## 🐍 Contribution Snake
