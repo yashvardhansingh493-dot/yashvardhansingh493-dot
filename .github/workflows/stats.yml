@@ -2,31 +2,28 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  stats:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      - name: Generate stats SVG
+      - name: Generate GitHub Statistics
         uses: cicirello/user-statistician@v1
         with:
           image-file: stats.svg
           colors: dark
           include-title: true
-
-      - name: Commit generated stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats.svg
-          git commit -m "Update GitHub stats" || exit 0
-          git push
+          custom-title: Yash Vardhan Singh - GitHub Statistics
+          animated-language-chart: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
